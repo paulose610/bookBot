@@ -2,9 +2,8 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-To create a sample book:
-type:
-    -wget -O books/frankenstein.txt https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/frankenstein.txt
+To setup and download a sample book:
+    -python3 main.py setup
 
-# To run simply type the commans: 
+To run simply type the command: 
     -python3 main.py books/{book_name}
